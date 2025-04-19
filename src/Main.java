@@ -12,6 +12,7 @@ public class Main {
 
         //Komentář - řádkový
 
+        System.out.println("Další výpis na obrazovku.");
 
         /*
         * Komentář blokový
